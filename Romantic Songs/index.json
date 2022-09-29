@@ -36,5 +36,19 @@
           "Sunidhi Chauhan"
        ],
        "link":"https://youtu.be/zfABYXP_NSA"
+    },
+     {
+       "id":4,
+       "name":"Rabba",
+       "lyrics":"https://www.jiosaavn.com/lyrics/rabba-lyrics/HRwnZRVKZ30",
+       "album":"heropanti",
+       "Duration":"2 min 27 sec",
+       "singer":[
+          "Pritam",
+          "K.K",
+          "samir",
+       ],
+       "link":"https://youtu.be/o4mHtJLgMLs"
     }
+    
 ]   

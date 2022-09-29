@@ -1,0 +1,40 @@
+[
+    {
+       "id":1,
+       "name":"Sajdaa",
+       "lyrics":"https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
+       "album":"My Name is Khan (2010)",
+       "Duration":"4 min 58 sec",
+       "singer":[
+          "Rahat Fateh Ali Khan",
+          "Shankar Mahadevan",
+          "Richa Sharma"
+       ],
+       "link":"https://youtu.be/3rPEWcY6Oww"
+    },
+    {
+       "id":2,
+       "name":"Mast Magaan",
+       "lyrics":"https://gaana.com/lyrics/mast-magan-1",
+       "album":"2 States",
+       "Duration":"4 min 40 sec",
+       "singer":[
+          "Arijit Singh",
+          "Chinmayi Sripada"
+       ],
+       "link":"https://youtu.be/fXRvluHnjxE"
+    },
+    {
+       "id":3,
+       "name":"Sajde",
+       "lyrics":"https://gaana.com/lyrics/sajde",
+       "album":"Khatta Meetha",
+       "Duration":"5 min 5 sec",
+       "singer":[
+          "Pritam",
+          "K.K",
+          "Sunidhi Chauhan"
+       ],
+       "link":"https://youtu.be/zfABYXP_NSA"
+    }
+]   

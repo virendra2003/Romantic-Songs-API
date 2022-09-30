@@ -49,6 +49,19 @@
           "samir",
        ],
        "link":"https://youtu.be/o4mHtJLgMLs"
+    },
+    
+      {
+       "id":5,
+       "name":"Tum hi ho",
+       "lyrics":"https://www.lyricsdaw.com/2020/04/tum-hi-ho-lyrics-aashiqui-2.html",
+       "album":"Ashiqui 2",
+       "Duration":"4 min 28 sec",
+       "singer":[
+          "Arijit Singh",
+          "Shreya Ghoshal"          
+       ],
+       "link":"https://youtu.be/Umqb9KENgmk"
     }
     
 ]   

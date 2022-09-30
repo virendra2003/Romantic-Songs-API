@@ -95,6 +95,17 @@
           "Arijit Singh"
        ],
        "link":"https://youtu.be/MJyKN-8UncM"
+    },
+    {
+       "id":9,
+       "name":"Doobey",
+       "lyrics":"https://www.azlyrics.com/lyrics/bollywood/shayad.html",
+       "album":"Gehraiyyaa",
+       "Duration":"2 min 17 sec",
+       "singer":[
+          "Lothikaa"
+       ],
+       "link":"https://www.youtube.com/watch?v=6eGCi4SVy94"
     }
     
 ]   

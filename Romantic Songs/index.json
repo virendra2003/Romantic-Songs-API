@@ -217,6 +217,19 @@
        "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
     },
 {
+
+       "id":14,
+       "name":"You",
+       "lyrics":"https://www.lyricsgoal.com/you-armaan-malik/",
+       "album":"",
+       "Duration":"3 min 16 sec",
+       "singer":[
+          "Armaan Malik",
+       ],
+       "link":"https://www.youtube.com/watch?v=GsdYjCLcpN4"
+    },
+
+    {
        "id":46,
        "name":"Bande",
        "lyrics":"https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",

@@ -46,9 +46,20 @@
        "singer":[
           "Pritam",
           "K.K",
-          "samir",
+          "samir"
        ],
        "link":"https://youtu.be/o4mHtJLgMLs"
-    }
+    },
+    {
+      "id":5,
+      "name":"Perfect",
+      "lyrics":"https://www.azlyrics.com/lyrics/edsheeran/perfect.html",
+      "album":"third studio album",
+      "Duration":"4 min 40 sec",
+      "singer":[
+         "Ed Sheeran "
+      ],
+      "link":"https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+   }
     
 ]   

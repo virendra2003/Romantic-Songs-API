@@ -144,6 +144,17 @@
           "Ed Sheeran"
        ],
        "link":"https://www.youtube.com/watch?v=1rz1aug2Ypc"
+    },
+    {
+       "id":12,
+       "name":"Alone Pt",
+       "lyrics":"https://www.azlyrics.com/lyrics/alanwalker/aloneptii.html",
+       "album":"Alone Walker and Ava max",
+       "Duration":"2 min 8 sec",
+       "singer":[
+          "Alan Walker"
+       ],
+       "link":"https://www.youtube.com/watch?v=GPvBmcoriNo"
 
     }
 {

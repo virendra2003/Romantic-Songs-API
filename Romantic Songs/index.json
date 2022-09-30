@@ -194,6 +194,16 @@
        ],
        "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
     },
-
+{
+       "id":13,
+       "name":"Photograph",
+       "lyrics":"https://www.azlyrics.com/lyrics/edsheeran/photograph.html",
+       "album":"X",
+       "Duration":"4 min 19 sec",
+       "singer":[
+          "Ed Sheeran",
+       ],
+       "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
+    },
     
 ]   

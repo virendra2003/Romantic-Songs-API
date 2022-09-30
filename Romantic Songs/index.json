@@ -50,9 +50,19 @@
        ],
        "link":"https://youtu.be/o4mHtJLgMLs"
     },
-    
-      {
+    {
        "id":5,
+       "name":"Night Changes",
+       "lyrics":"https://genius.com/One-direction-night-changes-lyrics",
+       "album":"four",
+       "Duration":"4 min 1 sec",
+       "singer":[
+          "One Direction",
+       ],
+       "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
+    },
+      {
+       "id":6,
        "name":"Tum hi ho",
        "lyrics":"https://www.lyricsdaw.com/2020/04/tum-hi-ho-lyrics-aashiqui-2.html",
        "album":"Ashiqui 2",
@@ -62,9 +72,9 @@
           "Shreya Ghoshal"          
        ],
        "link":"https://youtu.be/Umqb9KENgmk"
-    }
+    },
     {
-       "id":5,
+       "id":7,
        "name":"tum se hi",
        "lyrics":"https://www.jiosaavn.com/lyrics/tum-se-hi-lyrics/CiE7ejcIZ3g",
        "album":"jab we met",

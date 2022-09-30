@@ -170,5 +170,18 @@
        "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
     },
 
+{
+       "id":12,
+       "name":"Cham Cham",
+       "lyrics":"https://www.lyricsmint.com/baaghi/cham-cham",
+       "album":"Monsoon Romance",
+       "Duration":"3 min 51 sec",
+       "singer":[
+          "Monali Thakur",
+          "Meet Bros"
+       ],
+       "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
+    },
+
     
 ]   

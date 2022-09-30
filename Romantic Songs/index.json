@@ -215,5 +215,17 @@
           "Ed Sheeran",
        ],
        "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
-    }
+    },
+{
+       "id":46,
+       "name":"Bande",
+       "lyrics":"https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
+       "album":"Vikaram Vedha",
+       "Duration":"4 min 58 sec",
+       "singer":[
+          "Shankar Mahadevan",
+          "Richa Sharma"
+       ],
+       "link":"https://youtu.be/3rPEWcY6Oww"
+    },
 ]   

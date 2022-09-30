@@ -84,6 +84,17 @@
           "Mohit Chaihan",   
        ],
        "link":"https://www.youtube.com/watch?v=mt9xg0mmt28"
+    },
+     {
+       "id":8,
+       "name":"Shayad",
+       "lyrics":"https://www.azlyrics.com/lyrics/bollywood/shayad.html",
+       "album":"Love Aaj Kal",
+       "Duration":"4 min 58 sec",
+       "singer":[
+          "Arijit Singh"
+       ],
+       "link":"https://youtu.be/MJyKN-8UncM"
     }
     
 ]   

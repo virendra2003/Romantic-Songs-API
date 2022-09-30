@@ -46,12 +46,24 @@
        "singer":[
           "Pritam",
           "K.K",
-          "samir",
+          "samir"
        ],
        "link":"https://youtu.be/o4mHtJLgMLs"
     },
     {
-       "id":5,
+
+      "id":5,
+      "name":"Perfect",
+      "lyrics":"https://www.azlyrics.com/lyrics/edsheeran/perfect.html",
+      "album":"third studio album",
+      "Duration":"4 min 40 sec",
+      "singer":[
+         "Ed Sheeran "
+      ],
+      "link":"https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+   },
+   {
+       "id":6,
        "name":"Night Changes",
        "lyrics":"https://genius.com/One-direction-night-changes-lyrics",
        "album":"four",
@@ -61,8 +73,9 @@
        ],
        "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
     },
-      {
-       "id":6,
+    
+    {
+       "id":7,
        "name":"Tum hi ho",
        "lyrics":"https://www.lyricsdaw.com/2020/04/tum-hi-ho-lyrics-aashiqui-2.html",
        "album":"Ashiqui 2",
@@ -73,8 +86,9 @@
        ],
        "link":"https://youtu.be/Umqb9KENgmk"
     },
+    
     {
-       "id":7,
+       "id":8,
        "name":"tum se hi",
        "lyrics":"https://www.jiosaavn.com/lyrics/tum-se-hi-lyrics/CiE7ejcIZ3g",
        "album":"jab we met",
@@ -85,8 +99,9 @@
        ],
        "link":"https://www.youtube.com/watch?v=mt9xg0mmt28"
     },
+    
      {
-       "id":8,
+       "id":9,
        "name":"Shayad",
        "lyrics":"https://www.azlyrics.com/lyrics/bollywood/shayad.html",
        "album":"Love Aaj Kal",
@@ -96,6 +111,7 @@
        ],
        "link":"https://youtu.be/MJyKN-8UncM"
     },
+
     {
        "id":9,
        "name":"Doobey",
@@ -106,6 +122,31 @@
           "Lothikaa"
        ],
        "link":"https://www.youtube.com/watch?v=6eGCi4SVy94"
+},
+     {
+       "id":10,
+       "name":"kesaritya tera",
+       "lyrics":"https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiSr-LI2bz6AhXp3TgGHV4TAyMQFnoECCoQAQ&url=https%3A%2F%2Fwww.ilyricshub.com%2Fkesariya-brahmastra%2F&usg=AOvVaw0qgcT2qujlJafqksSUgLCG",
+       "album":"Love Aaj Kal",
+       "Duration":"4 min 28 sec",
+       "singer":[
+          "Arijit Singh"
+       ],
+       "link":"https://youtu.be/1g-zVKPvgrU"
+    },
+    {
+       "id":11,
+       "name":"perfect",
+       "lyrics":"https://www.azlyrics.com/lyrics/bollywood/shayad.html",
+       "album":"divide",
+       "Duration":"4 min 23 sec",
+       "singer":[
+          "Ed Sheeran"
+       ],
+       "link":"https://www.youtube.com/watch?v=1rz1aug2Ypc"
+
     }
+
+
     
 ]   

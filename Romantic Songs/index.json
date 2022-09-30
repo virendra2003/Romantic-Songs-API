@@ -60,6 +60,30 @@
           "One Direction",
        ],
        "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
+    },
+      {
+       "id":6,
+       "name":"Tum hi ho",
+       "lyrics":"https://www.lyricsdaw.com/2020/04/tum-hi-ho-lyrics-aashiqui-2.html",
+       "album":"Ashiqui 2",
+       "Duration":"4 min 28 sec",
+       "singer":[
+          "Arijit Singh",
+          "Shreya Ghoshal"          
+       ],
+       "link":"https://youtu.be/Umqb9KENgmk"
+    },
+    {
+       "id":7,
+       "name":"tum se hi",
+       "lyrics":"https://www.jiosaavn.com/lyrics/tum-se-hi-lyrics/CiE7ejcIZ3g",
+       "album":"jab we met",
+       "Duration":"4 min 18 sec",
+       "singer":[
+          "Pritam",
+          "Mohit Chaihan",   
+       ],
+       "link":"https://www.youtube.com/watch?v=mt9xg0mmt28"
     }
     
 ]   
